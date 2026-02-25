@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "LONELIEST BABY",
+  "base_artist": "μ's",
+  "createdAt": "2026-02-25T08:35:55.559948Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LONELIEST BABY",
+      "artist": "μ’s",
+      "has_synced": false,
+      "path": "select/01_LONELIEST_BABY_μ’s.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "loneliest baby",
+      "artist": "s",
+      "has_synced": true,
+      "path": "select/02_loneliest_baby_s.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LONELIEST BABY (HONOKA Mix)",
+      "artist": "高坂穂乃果",
+      "has_synced": true,
+      "path": "select/03_LONELIEST_BABY_(HONOKA_Mix)_高坂穂乃果.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LONELIEST BABY",
+      "artist": "µ's",
+      "has_synced": false,
+      "path": "select/04_LONELIEST_BABY_μ's.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LONELIEST BABY (ELI Mix)",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/05_LONELIEST_BABY_(ELI_Mix)_μ's.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LONELIEST BABY (NOZOMI Mix)",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/06_LONELIEST_BABY_(NOZOMI_Mix)_μ's.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LONELIEST BABY (MAKI Mix)",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/07_LONELIEST_BABY_(MAKI_Mix)_μ's.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LONELIEST BABY (off vocal)",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/08_LONELIEST_BABY_(off_vocal)_μ's.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LONELIEST BABY (HANAYO Mix)",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/09_LONELIEST_BABY_(HANAYO_Mix)_μ's.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LONELIEST BABY (RIN Mix)",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/10_LONELIEST_BABY_(RIN_Mix)_μ's.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "LONELIEST BABY (NICO Mix)",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/11_LONELIEST_BABY_(NICO_Mix)_μ's.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LONELIEST BABY",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/12_LONELIEST_BABY_μ's.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "LONELIEST BABY (UMI Mix)",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/13_LONELIEST_BABY_(UMI_Mix)_μ's.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "LONELIEST BABY (HONOKA Mix)",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/14_LONELIEST_BABY_(HONOKA_Mix)_μ's.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LONELIEST BABY",
+      "artist": "μ's",
+      "has_synced": false,
+      "path": "select/pl_01_LONELIEST_BABY_μ's.txt"
+    }
+  ]
+}
